@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Phúc</h1>
 <h3 align="center">Working smart and hard🔥</h3>
 
-- 🌱 I’m currently learning **Advanced Program in Computer Science** in [https://hcmus.edu.vn](University of Science - VNUHCM)
+- 🌱 I’m currently learning **Advanced Program in Computer Science** in [University of Science - VNUHCM](https://hcmus.edu.vn)
 
 - 📫 How to reach me **nhplhp2004@gmail.com**
 
