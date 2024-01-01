@@ -5,11 +5,12 @@
 
 - ⚡ Fun fact: I think I am funny :D
 
+- Want to send me a message? <a href="mailto:nhplhp2004@gmail.com" >nhplhp2004@gmail.com</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nhphuc.slo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhphuc.slo" height="30" width="40" /></a>
 <a href="https://fb.com/nhphuc.slo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhphuc.slo" height="30" width="40" /></a>
-<a href="mailto:nhplhp2004@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a511810a3d736491a83505b26060010040e0301fae4138edb8177d37f78afa3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f3334342f676d61696c2e706e67" alt="nhplhp2004@gmail.com" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/yourID/701430526447321088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="701430526447321088" height="30" width="40" /></a>
 </p>
 
